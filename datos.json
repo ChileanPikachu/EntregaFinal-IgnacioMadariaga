@@ -1,0 +1,34 @@
+[
+    {
+      "id": "1",
+      "nombre": "Lionel Messi",
+      "nacionalidad": "argentino",
+      "equipo": "Paris Saint-Germain",
+      "posicion": "Delantero 1",
+      "dorsal": "30"
+    },
+    {
+      "id": "2",
+      "nombre": "Karim Benzema",
+      "nacionalidad": "francés",
+      "equipo": "Real Madrid",
+      "posicion": "Delantero 1",
+      "dorsal": "9"
+    },
+    {
+      "id": "3",
+      "nombre": "Erling Haaland",
+      "nacionalidad": "noruego",
+      "equipo": "Manchester City",
+      "posicion": "Delantero 1",
+      "dorsal": "9"
+    },
+    {
+      "id": "4",
+      "nombre": "Cristiano Ronaldo",
+      "nacionalidad": "portugués",
+      "equipo": "Manchester United",
+      "posicion": "Delantero 1",
+      "dorsal": "7"
+    }
+  ]

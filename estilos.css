@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(multimedia/fondo.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #829A8E;
+}
+
+.jumbotronPadre {
+    background-color: rgba(15, 49, 48, 0.9);
+  }
+  .jumbotronPadre .jumbotron {
+    padding: 70px;
+    background-image: url(multimedia/fondojumbotron.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 0px;
+    color: antiquewhite;
+  }
